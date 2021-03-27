@@ -1,6 +1,5 @@
 import Swal from "sweetalert2"
 
-// const base_url = 'http://localhost:3001'
 const base_url = 'http://54.255.24.130:80'
 
 export function setFetchProduct(payload) {

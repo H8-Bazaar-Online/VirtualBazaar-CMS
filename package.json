@@ -1,5 +1,5 @@
 {
-  "name": "bazaar-cms",
+  "name": "virtual-bazaar-cms",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -49,5 +49,18 @@
     "autoprefixer": "^9.8.6",
     "postcss": "^7.0.35",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.4"
-  }
+  },
+  "description": "",
+  "main": "craco.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/H8-Bazaar-Online/virtual-bazaar-cms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/H8-Bazaar-Online/virtual-bazaar-cms/issues"
+  },
+  "homepage": "https://github.com/H8-Bazaar-Online/virtual-bazaar-cms#readme"
 }
